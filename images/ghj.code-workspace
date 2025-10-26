@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "../../../../OneDrive/Desktop/ghj"
+		},
+		{
+			"path": "../../3D Social Tiles"
+		},
+		{
+			"path": "../../10-Animated Login Form"
+		},
+		{
+			"path": "../../Add To Cart Buttton"
+		},
+		{
+			"path": "../../CodeByGaurav"
+		},
+		{
+			"path": "../../html-css-text-writing-animation"
+		},
+		{
+			"path": "../../neumorphism-weather-app"
+		},
+		{
+			"path": "../../orb-progress-bar"
+		},
+		{
+			"path": "../../PianoProject"
+		},
+		{
+			"path": "../../pure-css-image-text-with-fallbacks"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../website-layout-in-html-css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PianoProject"
+	}
+}
